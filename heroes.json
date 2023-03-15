@@ -1,18 +1,5 @@
 {
-  "heroes": [
-    {
-      "id": "26df8375-7711-4380-ab4c-4d3ba56d2740",
-      "name": "Olga",
-      "description": "всё",
-      "element": "fire"
-    },
-    {
-      "id": "45389e95-2119-4fe2-8e04-ca1ef4d9b9dd",
-      "name": "q",
-      "description": "в",
-      "element": "earth"
-    }
-  ],
+  "heroes": [],
   "filters": [
     {
       "name": "all",
