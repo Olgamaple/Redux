@@ -1,12 +1,5 @@
 {
-  "heroes": [
-    {
-      "id": "b91a2bc4-8367-44a4-80fb-192cafa511f3",
-      "name": "Olga",
-      "description": "0",
-      "element": "fire"
-    }
-  ],
+  "heroes": [],
   "filters": [
     {
       "name": "all",
