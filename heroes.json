@@ -1,28 +1,10 @@
 {
   "heroes": [
     {
-      "id": "cdc49439-d188-49a1-8bf9-555b7fad8768",
+      "id": "669e3a16-227b-4c57-9c88-aa1b47755222",
       "name": "Olga",
-      "description": "all",
-      "element": "fire"
-    },
-    {
-      "id": "add577a0-3578-489b-a4ad-151fba4950fe",
-      "name": "11",
-      "description": "a",
-      "element": "wind"
-    },
-    {
-      "id": "28a6e6c5-efd0-4474-ad12-425fbd1d92ff",
-      "name": "q",
-      "description": "q",
-      "element": "earth"
-    },
-    {
-      "id": "c8faf4e3-9b2c-4dfc-8810-20c4132f432a",
-      "name": "Olga",
-      "description": "all",
-      "element": "wind"
+      "description": "f",
+      "element": "water"
     }
   ],
   "filters": [
